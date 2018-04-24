@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dagger MVP example</string>
+    <string name="url_data_dog">http://losapuntesdelprogramador.com/</string>
+</resources>
